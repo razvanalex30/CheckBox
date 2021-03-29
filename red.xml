@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <robotExecEnvironment path="C:/Users/RAlexandru/AppData/Local/Programs/Python/Python39" interpreter="Python"/>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/RAlexandru/AppData/Local/Programs/Python/Python39/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="check_box.CheckBox" path="TestCheckBox/check_box.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="driver_create.SeleniumLibraryExt" path="TestCheckBox/driver_create.py" dynamic="false"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
